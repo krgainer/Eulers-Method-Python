@@ -3,6 +3,6 @@
 Simple implementation of Eulers Method using Python 3.
 
 To utilize:
-Update the `problem` and `problem_name` variables, and alter the "derivativeFunction" fucntion to your needs, then run the script. 
+Update the `problem` and `problem_name` variables, alter the `derivativeFunction` function to your needs, and run the script. 
 
-Output files for each of the defined h values will be created in the location the script is run.
+Output files for each defined h value will be created in the location where the script is run.
